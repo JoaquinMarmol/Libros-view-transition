@@ -1,1 +1,1 @@
-View Transitions API en ASTRO
+View Transitions API con ASTRO
